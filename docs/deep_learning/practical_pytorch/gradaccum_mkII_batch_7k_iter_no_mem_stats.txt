@@ -1,0 +1,153 @@
+#################################################################
+
+batch_size: 5. accum_step: 5. theo_batch_size: 25
+#################################################################
+
+batch_size: 25. accum_step: 2. theo_batch_size: 50
+Iteration: 500. Loss: 2.3083786964416504. Accuracy: 11.350000381469727. 
+Epoch: 0. Time in seconds: 4.955618619918823.
+
+Iteration: 1000. Loss: 2.271347761154175. Accuracy: 10.3100004196167. 
+Epoch: 0. Time in seconds: 9.737490177154541.
+
+Iteration: 1500. Loss: 2.235872507095337. Accuracy: 24.15999984741211. 
+Epoch: 0. Time in seconds: 13.960516214370728.
+
+Iteration: 2000. Loss: 1.204350471496582. Accuracy: 52.630001068115234. 
+Epoch: 0. Time in seconds: 18.289143562316895.
+
+Iteration: 2500. Loss: 0.6976267099380493. Accuracy: 69.69000244140625. 
+Epoch: 1. Time in seconds: 22.58990216255188.
+
+Iteration: 3000. Loss: 0.5575090646743774. Accuracy: 84.13999938964844. 
+Epoch: 1. Time in seconds: 27.09911870956421.
+
+Iteration: 3500. Loss: 0.4630226492881775. Accuracy: 87.63999938964844. 
+Epoch: 1. Time in seconds: 32.14312410354614.
+
+Iteration: 4000. Loss: 0.36876893043518066. Accuracy: 92.51000213623047. 
+Epoch: 1. Time in seconds: 37.06697392463684.
+
+Iteration: 4500. Loss: 0.26749634742736816. Accuracy: 90.55999755859375. 
+Epoch: 1. Time in seconds: 41.86842203140259.
+
+#################################################################
+
+batch_size: 20. accum_step: 5. theo_batch_size: 100
+Iteration: 500. Loss: 2.3019583225250244. Accuracy: 11.350000381469727. 
+Epoch: 0. Time in seconds: 4.701030254364014.
+
+Iteration: 1000. Loss: 2.3165433406829834. Accuracy: 10.100000381469727. 
+Epoch: 0. Time in seconds: 10.012993812561035.
+
+Iteration: 1500. Loss: 2.185120105743408. Accuracy: 22.950000762939453. 
+Epoch: 0. Time in seconds: 15.390602588653564.
+
+Iteration: 2000. Loss: 1.2657783031463623. Accuracy: 48.119998931884766. 
+Epoch: 0. Time in seconds: 20.2893123626709.
+
+Iteration: 2500. Loss: 0.6980441808700562. Accuracy: 67.72000122070312. 
+Epoch: 0. Time in seconds: 25.266103744506836.
+
+Iteration: 3000. Loss: 1.0571547746658325. Accuracy: 76.2699966430664. 
+Epoch: 0. Time in seconds: 30.09671115875244.
+
+Iteration: 3500. Loss: 0.5383870601654053. Accuracy: 85.63999938964844. 
+Epoch: 1. Time in seconds: 35.56696081161499.
+
+Iteration: 4000. Loss: 0.3287309408187866. Accuracy: 89.94999694824219. 
+Epoch: 1. Time in seconds: 41.26516628265381.
+
+Iteration: 4500. Loss: 0.6305050253868103. Accuracy: 89.66999816894531. 
+Epoch: 1. Time in seconds: 46.50194525718689.
+
+Iteration: 5000. Loss: 0.14944778382778168. Accuracy: 93.5. 
+Epoch: 1. Time in seconds: 52.0253164768219.
+
+Iteration: 5500. Loss: 0.03008737787604332. Accuracy: 94.26000213623047. 
+Epoch: 1. Time in seconds: 60.97392416000366.
+
+Iteration: 6000. Loss: 0.021821247413754463. Accuracy: 95.19999694824219. 
+Epoch: 1. Time in seconds: 66.35457587242126.
+
+#################################################################
+
+batch_size: 50. accum_step: 4. theo_batch_size: 200
+Iteration: 500. Loss: 2.2897307872772217. Accuracy: 14.869999885559082. 
+Epoch: 0. Time in seconds: 15.375942707061768.
+
+Iteration: 1000. Loss: 2.2996089458465576. Accuracy: 14.5. 
+Epoch: 0. Time in seconds: 28.720317363739014.
+
+Iteration: 1500. Loss: 2.1416900157928467. Accuracy: 24.34000015258789. 
+Epoch: 1. Time in seconds: 39.19471096992493.
+
+Iteration: 2000. Loss: 1.2092289924621582. Accuracy: 62.630001068115234. 
+Epoch: 1. Time in seconds: 50.191168546676636.
+
+Iteration: 2500. Loss: 0.6440053582191467. Accuracy: 69.44999694824219. 
+Epoch: 2. Time in seconds: 62.82252883911133.
+
+Iteration: 3000. Loss: 0.4863091707229614. Accuracy: 85.20999908447266. 
+Epoch: 2. Time in seconds: 76.41225051879883.
+
+Iteration: 3500. Loss: 0.42659130692481995. Accuracy: 88.16999816894531. 
+Epoch: 2. Time in seconds: 87.81007051467896.
+
+Iteration: 4000. Loss: 0.2067837119102478. Accuracy: 93.19000244140625. 
+Epoch: 3. Time in seconds: 98.66561484336853.
+
+Iteration: 4500. Loss: 0.1461447924375534. Accuracy: 94.72000122070312. 
+Epoch: 3. Time in seconds: 108.29056930541992.
+
+Iteration: 5000. Loss: 0.1539211869239807. Accuracy: 95.45999908447266. 
+Epoch: 4. Time in seconds: 118.02934956550598.
+
+Iteration: 5500. Loss: 0.08981230109930038. Accuracy: 95.94000244140625. 
+Epoch: 4. Time in seconds: 129.3497052192688.
+
+Iteration: 6000. Loss: 0.13417795300483704. Accuracy: 96.41000366210938. 
+Epoch: 4. Time in seconds: 144.1581268310547.
+
+#################################################################
+
+batch_size: 100. accum_step: 5. theo_batch_size: 500
+Iteration: 500. Loss: 2.293948173522949. Accuracy: 11.350000381469727. 
+Epoch: 0. Time in seconds: 16.247907400131226.
+
+Iteration: 1000. Loss: 2.3000524044036865. Accuracy: 11.350000381469727. 
+Epoch: 1. Time in seconds: 29.746479034423828.
+
+Iteration: 1500. Loss: 2.1752185821533203. Accuracy: 22.049999237060547. 
+Epoch: 2. Time in seconds: 44.52078700065613.
+
+Iteration: 2000. Loss: 1.4954718351364136. Accuracy: 43.849998474121094. 
+Epoch: 3. Time in seconds: 58.32932806015015.
+
+Iteration: 2500. Loss: 0.7870786190032959. Accuracy: 71.1500015258789. 
+Epoch: 4. Time in seconds: 73.79460072517395.
+
+Iteration: 3000. Loss: 0.4040369391441345. Accuracy: 77.30999755859375. 
+Epoch: 4. Time in seconds: 87.49280858039856.
+
+Iteration: 3500. Loss: 0.3247084319591522. Accuracy: 79.47000122070312. 
+Epoch: 5. Time in seconds: 102.53289031982422.
+
+Iteration: 4000. Loss: 0.30569735169410706. Accuracy: 94.12000274658203. 
+Epoch: 6. Time in seconds: 117.02739524841309.
+
+Iteration: 4500. Loss: 0.14364847540855408. Accuracy: 95.1500015258789. 
+Epoch: 7. Time in seconds: 131.85621118545532.
+
+Iteration: 5000. Loss: 0.15406693518161774. Accuracy: 91.62999725341797. 
+Epoch: 8. Time in seconds: 149.04208326339722.
+
+Iteration: 5500. Loss: 0.13389010727405548. Accuracy: 97.05999755859375. 
+Epoch: 9. Time in seconds: 162.83568239212036.
+
+Iteration: 6000. Loss: 0.13557228446006775. Accuracy: 97.19999694824219. 
+Epoch: 9. Time in seconds: 180.2262465953827.
+
+Iteration: 6500. Loss: 0.07424705475568771. Accuracy: 97.58999633789062. 
+Epoch: 10. Time in seconds: 196.703439950943.
+
